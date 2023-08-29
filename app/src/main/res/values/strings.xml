@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P2 Relative Layout</string>
+    <string name="phone_name">Samsung Galaxy</string>
+    <string name="phone_price">$599.99</string>
+    <string name="phone_desc">Version: SM-S901B</string>
+    <string name="phone_memory">256GB | 8GB</string>
+    <string name="phone_camera">50MP, f/1.8, 23mm(wide)</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="activity_title">HapeKu</string>
+</resources>
